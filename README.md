@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jakub Zawadzki!</h1>
+<h1 align="center">Hi 👋, I'm Jakub</h1>
 <p align = "center"><a href="https://www.jakubzawadzki.dev/">My Portfolio</a></p>
 <br>
 
